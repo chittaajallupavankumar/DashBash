@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Dash Bash Repo 
-=======
-## DashBash
+# DashBash Repo
 ### Journey to Devops
->>>>>>> 
+ 
